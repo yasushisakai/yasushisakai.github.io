@@ -1,12 +1,11 @@
-<html>
-<!doctype html>
-
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title> memo </title>
-  </head>
-  <body>
-    hello world
-  </body>
-  </html>
+---
+layout: default
+title: memo
+---
+        {{ page.title }}
+          <br>
+	<ul class="posts">
+	  {% for post in site.posts %}
+          <li><span>{{ post.date | date_to_string }}</span> : <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
