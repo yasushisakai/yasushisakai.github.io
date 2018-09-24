@@ -24,3 +24,16 @@ categories: default
 ```
 
 with this you can ```memo <title of memo>``` and memo whatever
+
+to automate the repo update process (add, commit, push)
+
+```bash
+umemo () {
+cd "/mnt/c/Users/yasushi/code/yasushisakai.github.io/"
+git add .
+d=$(date +'%Y-%m-%d')
+git commit -m "update: $d"
+git push
+}
+```
+and will push to github with generic commit message 'update: YYYY-MM-DD'
