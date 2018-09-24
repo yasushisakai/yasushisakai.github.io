@@ -1,4 +1,2 @@
 name: memorandum
 markdown: kramdown
-
-permalink: memo/:year/:month/:day/:title
