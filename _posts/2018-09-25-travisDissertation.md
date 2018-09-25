@@ -1,6 +1,6 @@
 ---
-title: Travis's dissertation
-layout:post
+title: travis's dissertation
+layout: post
 ---
 
 - Comparing Open source vs science

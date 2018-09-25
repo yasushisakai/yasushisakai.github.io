@@ -1,6 +1,6 @@
 ---
-layout: post
 title: openframeworks
+layout: post
 ---
 
 # memo on openframeworks

@@ -1,6 +1,6 @@
 ---
-layout:post
 title: crypto class notes
+layout:post
 ---
 ## 2/12
 
