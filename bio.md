@@ -16,7 +16,8 @@ Yasushi Sakai is a researcher, artist, and an architect that lives in the comput
 
 ## professional employments
 
-- Nikken Sekkei, Architectural Design Department, Digital Design Lab, Architect, - 
+- MIT Media Lab, City Science Group, Research Assistant, 2015-
+- Nikken Sekkei, Architectural Design Department, Digital Design Lab, Architect, 2011-2015 
 
 ## internships
 
@@ -25,7 +26,10 @@ Yasushi Sakai is a researcher, artist, and an architect that lives in the comput
 
 ## exhibits
 
-
+- "Diastrofsimos" w/ Nicole L'Huillier, Thomas Sanchez, Lengling
+  - [Bienal de Artes Mediales of Chile](http://www.bienaldeartesmediales.cl/13/obra/talking-rock/), 2017 Oct
+  - [Wiesner Student Art Gallery](https://arts.mit.edu/start/wiesner-student-art-gallery/past-exhibitions/), 2018 March
+  - [Siggraph Art Gallery](https://s2018.siggraph.org/conference/conference-overview/art-gallery/), 2018 August
 
 ## awards
 - Art Hack Day 2014, Golden Art Hack Award, Tokyo, 2014
@@ -37,4 +41,10 @@ Yasushi Sakai is a researcher, artist, and an architect that lives in the comput
 - Excellent Undergraduate Architectural Design Exhibition, Elected, Lemon Gasui, 2010 
 
 ## talks
-- 
+- City Science Summit 2018 Shanghai 
+
+## publications
+- Alonso, L., Zhang, Y.R., Grignard, A., Noyman, A., Sakai, Y., ElKatsha, M., Doorley, R. and Larson, K., 2018, July. Cityscope: a data-driven interactive simulation tool for urban design. Use case volpe. In International Conference on Complex Systems (pp. 253-261). Springer, Cham.[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:qrxAQyU0OscJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAW60mVk-j7Tz-KEDM6mLFnTAJrTaWBGHq&scisf=4&ct=citation&cd=-1&hl=en)
+- [CityScopeAR: Urban Design and Crowdsourced Engagement Platform](https://dam-prod.media.mit.edu/x/2018/04/25/NoymanSakaiLarson_CityScopeAR_CHI18.pdf)
+- Sakai, Y. and Tsunoda, D., 2015. [Implementation of Decentralized Version Control in Collective Design Modelling](https://link.springer.com/chapter/10.1007/978-3-319-24208-8_32). In Modelling Behaviour (pp. 383-395). Springer, Cham.
+- Sakai, Y. and Tsunoda, D., 2015. [Decentralized Version Control and Mass Collective Collaboration in design](http://papers.cumincad.org/data/works/att/ecaade2015_177.content.pdf). in eCAADe 33 (pp 207-214). 
