@@ -38,6 +38,7 @@ footer#copyright {
 img {
   margin: 0;
   padding: 0;
+  width: 90vw;
 }
 
 ul.no-bullets {

@@ -5,6 +5,11 @@ title: biography
 
 # Yasushi Sakai
 
+![](images/portrait_distorted.jpg)
+
+portait images 
+[high-res](images/yasushisakai_portrait.jpg) / [low-res](images/yasushisakai_portrait_lowres.jpg)
+
 Yasushi Sakai is a researcher, artist, and an architect that lives in the computer terminal. Currently a research assistant and a Phd candidate at the MIT Media Lab CityScience group, his work scales from designing micro controller schematics from mega structures, converting tangible artifacts to intangible experiences. His interest focuses on the blurry distinction between machine and human from the perspective of intelligence and methods of creation including large scale city planning that incorporates social aspects of this collective machine as a whole. His work has been selected to the Siggraph Art Exhibition (2018), Chile Biennial Art Exhibition (2017) and Japan Media Art Festival(2015) along with winning hackathons such as the Art Hack Day (2015), and World Bank's global innovation challenge(2015). 
 
 ## education
